@@ -1,0 +1,29 @@
+{
+  "short_name": "SOP'Africa",
+  "name": "SOP'Africa - Smart Invoice Manager",
+  "description": "A modern, AI-enhanced invoicing application inspired by professional accounting software principles. Manage your invoices efficiently with smart suggestions for line item descriptions powered by Gemini.",
+  "icons": [
+    {
+      "src": "/sop-africa-logo.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    },
+    {
+      "src": "/sop-africa-logo.svg", 
+      "type": "image/svg+xml",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/sop-africa-logo.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3f4f6",
+  "theme_color": "#1e40af",
+  "scope": "/"
+}
